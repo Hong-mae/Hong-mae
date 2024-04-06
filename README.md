@@ -55,7 +55,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://www.instagram.com/h.____bin">
-    <img src="https://img.shields.io/badge/h.____bin-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/h.________bin-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />&nbsp
   </a>
   <a href="mailto:qkrgksqls9@gmail.com">
     <img
